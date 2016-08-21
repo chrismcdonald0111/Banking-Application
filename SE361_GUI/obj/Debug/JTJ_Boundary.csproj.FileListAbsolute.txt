@@ -1,0 +1,17 @@
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\SE361_GUI\obj\Debug\JTJ_Boundary.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\SE361_GUI\obj\Debug\JTJ_Boundary.csproj.GenerateResource.Cache
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\SE361_GUI\obj\Debug\SE361_GUI.exe
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\SE361_GUI\bin\Debug\SE361_GUI.exe.config
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\SE361_GUI\obj\Debug\JTJ_Boundary.mainForm.resources
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\SE361_GUI\obj\Debug\JTJ_Boundary.Properties.Resources.resources
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\SE361_GUI\bin\Debug\SE361_GUI.exe
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\SE361_GUI\bin\Debug\SE361_GUI.pdb
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\SE361_GUI\bin\Debug\JTJ_Controller.exe
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\SE361_GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\SE361_GUI\bin\Debug\Newtonsoft.Json.Schema.dll
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\SE361_GUI\bin\Debug\JTJ_Controller.pdb
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\SE361_GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\SE361_GUI\bin\Debug\Newtonsoft.Json.Schema.xml
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\SE361_GUI\obj\Debug\SE361_GUI.pdb
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\SE361_GUI\bin\Debug\JTJ_Entity.exe
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\SE361_GUI\bin\Debug\JTJ_Entity.pdb

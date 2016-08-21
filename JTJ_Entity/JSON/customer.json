@@ -1,0 +1,30 @@
+[
+  {
+    "CustNumber": 1,
+    "Name": "Chris Mc",
+    "Address": "Butler",
+    "Email": "something@somewhere.com",
+    "PhoneNumber": "555-555-5555"
+  },
+  {
+    "CustNumber": 2,
+    "Name": "Chris Jones",
+    "Address": "Butler",
+    "Email": "something@somewhere.com",
+    "PhoneNumber": "555-555-5555"
+  },
+  {
+    "CustNumber": 3,
+    "Name": "Matt Beebe",
+    "Address": "Butler",
+    "Email": "something@somewhere.com",
+    "PhoneNumber": "555-555-5555"
+  },
+  {
+    "CustNumber": 4,
+    "Name": "Jon Sorenson",
+    "Address": "Butler",
+    "Email": "something@somewhere.com",
+    "PhoneNumber": "555-555-5555"
+  }
+]

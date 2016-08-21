@@ -1,0 +1,9 @@
+c:\users\chris\documents\visual studio 2013\Projects\SE361_GUI\SE361_GUI\bin\Debug\SE361_GUI.exe.config
+C:\Users\Chris\documents\visual studio 2013\Projects\SE361_GUI\SE361_GUI\bin\Debug\SE361_GUI.exe
+C:\Users\Chris\documents\visual studio 2013\Projects\SE361_GUI\SE361_GUI\bin\Debug\SE361_GUI.pdb
+C:\Users\Chris\documents\visual studio 2013\Projects\SE361_GUI\SE361_GUI\obj\Debug\SE361_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2013\Projects\SE361_GUI\SE361_GUI\obj\Debug\SE361_GUI.mainForm.resources
+C:\Users\Chris\documents\visual studio 2013\Projects\SE361_GUI\SE361_GUI\obj\Debug\SE361_GUI.Properties.Resources.resources
+C:\Users\Chris\documents\visual studio 2013\Projects\SE361_GUI\SE361_GUI\obj\Debug\SE361_GUI.csproj.GenerateResource.Cache
+C:\Users\Chris\documents\visual studio 2013\Projects\SE361_GUI\SE361_GUI\obj\Debug\SE361_GUI.exe
+C:\Users\Chris\documents\visual studio 2013\Projects\SE361_GUI\SE361_GUI\obj\Debug\SE361_GUI.pdb

@@ -1,0 +1,59 @@
+[
+  {
+    "JobNumber": 1,
+    "Complete": true,
+    "Address": "Butler",
+    "Date": "03/17/2015",
+    "Start_Time": "11 a.m.",
+    "Length": "5 Hours",
+    "Price": "$200.00",
+    "Amount_Paid": "$50.00",
+    "Amount_ToPay": "$150.00"
+  },
+  {
+    "JobNumber": 2,
+    "Complete": false,
+    "Address": "Butler",
+    "Date": "03/18/2015",
+    "Start_Time": "10 a.m.",
+    "Length": "5 Days",
+    "Price": "$2000.00",
+    "Amount_Paid": "$100.00",
+    "Amount_ToPay": "$1900.00"
+  },
+  {
+    "JobNumber": 4,
+    "Complete": true,
+    "Address": "Butler",
+    "Date": "3/25/2015",
+    "Start_Time": "4p.m.",
+    "Length": "12 Hours",
+    "Price": "$50000.00",
+    "Amount_Paid": "$50000.00",
+    "Amount_ToPay": "$00.00"
+  }
+,
+  {
+    "JobNumber": 3,
+    "Complete": true,
+    "Address": "Butler",
+    "Date": "3/24/2015",
+    "Start_Time": "8a.m.",
+    "Length": "10 Hours",
+    "Price": "$300.00",
+    "Amount_Paid": "$100.00",
+    "Amount_ToPay": "$200.00"
+  }
+,
+  {
+    "JobNumber": 5,
+    "Complete": false,
+    "Address": "Butler",
+    "Date": "3/31/2015",
+    "Start_Time": "10a.m.",
+    "Length": "5 Hours",
+    "Price": "$500.00",
+    "Amount_Paid": "$150.00",
+    "Amount_ToPay": "$350.00"
+  }
+]

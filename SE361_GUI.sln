@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JTJ_Boundary", "SE361_GUI\JTJ_Boundary.csproj", "{69ECE38E-B2B4-4E98-A814-E7E39C406EA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JTJ_Controller", "JTJ_Controller\JTJ_Controller.csproj", "{2C18F478-C1C4-4E8B-B21F-A4DE2D4F0868}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JTJ_Entity", "JTJ_Entity\JTJ_Entity.csproj", "{514DC52B-A577-45A3-982C-C57409AA18F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69ECE38E-B2B4-4E98-A814-E7E39C406EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69ECE38E-B2B4-4E98-A814-E7E39C406EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69ECE38E-B2B4-4E98-A814-E7E39C406EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69ECE38E-B2B4-4E98-A814-E7E39C406EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C18F478-C1C4-4E8B-B21F-A4DE2D4F0868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C18F478-C1C4-4E8B-B21F-A4DE2D4F0868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C18F478-C1C4-4E8B-B21F-A4DE2D4F0868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C18F478-C1C4-4E8B-B21F-A4DE2D4F0868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{514DC52B-A577-45A3-982C-C57409AA18F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514DC52B-A577-45A3-982C-C57409AA18F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514DC52B-A577-45A3-982C-C57409AA18F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514DC52B-A577-45A3-982C-C57409AA18F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

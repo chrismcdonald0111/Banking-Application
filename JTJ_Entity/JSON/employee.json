@@ -1,0 +1,20 @@
+[
+  {
+    "ID": 2,
+    "Name": "Chris Jones",
+    "Address": "Butler",
+    "Pay_Rate": "$100.00/s"
+  },
+  {
+    "ID": 3,
+    "Name": "Matt",
+    "Address": "Butler",
+    "Pay_Rate": "$100.00/s"
+  },
+  {
+    "ID": 1,
+    "Name": "Chris McDonald",
+    "Address": "Butler",
+    "Pay_Rate": "$100.00/s"
+  }
+]

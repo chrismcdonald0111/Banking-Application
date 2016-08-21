@@ -1,0 +1,10 @@
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\JTJ_Entity\bin\Debug\JTJ_Entity.exe.config
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\JTJ_Entity\bin\Debug\JTJ_Entity.exe
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\JTJ_Entity\bin\Debug\JTJ_Entity.pdb
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\JTJ_Entity\obj\Debug\JTJ_Entity.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\JTJ_Entity\obj\Debug\JTJ_Entity.Properties.Resources.resources
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\JTJ_Entity\obj\Debug\JTJ_Entity.csproj.GenerateResource.Cache
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\JTJ_Entity\obj\Debug\JTJ_Entity.exe
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\JTJ_Entity\obj\Debug\JTJ_Entity.pdb
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\JTJ_Entity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chris\Documents\Visual Studio 2013\Projects\SE361_GUI\JTJ_Entity\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,35 @@
+[
+  {
+    "invoice_ID": 1,
+    "Job_Type": false,
+    "C_Name": "Chris McDonald",
+    "Address": "Butler",
+    "C_Email": "something@somewhere.com",
+    "C_PhoneNumber": "555-555-5555",
+    "Employee_ID": "3",
+    "Total_Price": "$2000.00",
+    "C_Signature": "Chris McDonald"
+  },
+  {
+    "invoice_ID": 2,
+    "Job_Type": false,
+    "C_Name": "Chris Jones",
+    "Address": "Purdue",
+    "C_Email": "something@somewhere.com",
+    "C_PhoneNumber": "555-555-5555",
+    "Employee_ID": "1",
+    "Total_Price": "$7000.00",
+    "C_Signature": "Chris Jones"
+  },
+  {
+    "invoice_ID": 3,
+    "Job_Type": true,
+    "C_Name": "Derrick Rose",
+    "Address": "Somewhere in Chicago",
+    "C_Email": "drose@bulls.com",
+    "C_PhoneNumber": "555-555-5555",
+    "Employee_ID": null,
+    "Total_Price": "$4,000,000.00",
+    "C_Signature": "D Rose"
+  }
+]

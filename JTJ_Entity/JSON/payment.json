@@ -1,0 +1,27 @@
+[
+  {
+    "Pay_ID": 1,
+    "CustNumber": 2,
+    "Job_ID": 2,
+    "Payment_Amount": "$2000.00"
+  },
+  {
+    "Pay_ID": 2,
+    "CustNumber": 2,
+    "Job_ID": 5,
+    "Payment_Amount": "$350.00"
+  },
+  {
+    "Pay_ID": 2,
+    "CustNumber": 1,
+    "Job_ID": 3,
+    "Payment_Amount": "$200.00"
+  }
+,
+  {
+    "Pay_ID": 1,
+    "CustNumber": 1,
+    "Job_ID": 1,
+    "Payment_Amount": "$150.00"
+  }
+]
